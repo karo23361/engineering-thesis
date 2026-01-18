@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="Strona-1" id="7nYRqGsEYAX4UPCn1pdW">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u6A_pkuhBla1RzirJXPR-33" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="-710" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-6" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-27" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="510" />
+            </Array>
+            <mxPoint x="-710.0000000000002" y="500" as="sourcePoint" />
+            <mxPoint x="-730.0000000000002" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-7" connectable="0" parent="u6A_pkuhBla1RzirJXPR-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#000000,#103C3F);" value="TAK" vertex="1">
+          <mxGeometry relative="1" x="0.0528" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-18" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-27" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-560" y="510" />
+              <mxPoint x="-560" y="430" />
+            </Array>
+            <mxPoint x="-590.0000000000002" y="500" as="sourcePoint" />
+            <mxPoint x="-550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-19" connectable="0" parent="u6A_pkuhBla1RzirJXPR-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#000000, #103c3f);" value="NIE" vertex="1">
+          <mxGeometry relative="1" x="-0.3286" y="-1" as="geometry">
+            <mxPoint x="-1" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-20" edge="1" parent="1" source="5h-BV_m785xSSIy8x2UM-1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="800" />
+              <mxPoint x="-360" y="800" />
+              <mxPoint x="-360" y="380" />
+            </Array>
+            <mxPoint x="-460" y="860" as="sourcePoint" />
+            <mxPoint x="-560" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Stop" vertex="1">
+          <mxGeometry height="60" width="120" x="-790" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-25" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-48" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="u6A_pkuhBla1RzirJXPR-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-730" y="660" as="sourcePoint" />
+            <mxPoint x="-430" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Czy iteracja = MAX_ITER?" vertex="1">
+          <mxGeometry height="100" width="100" x="-700" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-36" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Inicjalizacja pozycji i prędkości" vertex="1">
+          <mxGeometry height="60" width="120" x="-710" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-37" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#00CCCC);" target="u6A_pkuhBla1RzirJXPR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Ocena populacji (fitness)" vertex="1">
+          <mxGeometry height="60" width="120" x="-710" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Wyznacz globalnego lidera" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Dla każdej cząstki:&lt;div&gt;- Oblicz AIW (wagę&amp;nbsp;ω&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Oblicz część poznawczą&lt;/div&gt;&lt;div&gt;- Oblicz część społeczną&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Aktualizuj prędkość&lt;/div&gt;&lt;div&gt;- Aktualizuj pozycję&lt;/div&gt;&lt;div&gt;- Korekta pozycji&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Aktualizuj lokalne best&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="150" x="-535" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-44" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00CCCC);entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u6A_pkuhBla1RzirJXPR-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="410" as="sourcePoint" />
+            <mxPoint x="-460" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6A_pkuhBla1RzirJXPR-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Zwróć wynik optymalizacji" vertex="1">
+          <mxGeometry height="60" width="120" x="-790" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="5h-BV_m785xSSIy8x2UM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Iteracja + 1" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5h-BV_m785xSSIy8x2UM-2" edge="1" parent="1" source="u6A_pkuhBla1RzirJXPR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00CCCC);entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5h-BV_m785xSSIy8x2UM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="690" as="sourcePoint" />
+            <mxPoint x="-370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
